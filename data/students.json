@@ -1,0 +1,7 @@
+[
+  {"name": "Rahul", "age": 20, "city": "Delhi", "course": "Python"},
+  {"name": "Anjali", "age": 21, "city": "Mumbai", "course": "Java"},
+  {"name": "Rohit", "age": 22, "city": "Jaipur", "course": "C++"},
+  {"name": "Priya", "age": 23, "city": "Pune", "course": "AI"},
+  {"name": "Karan", "age": 24, "city": "Chennai", "course": "Web Dev"}
+]
