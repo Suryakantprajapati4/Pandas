@@ -1,41 +1,46 @@
-# 📊 Pandas Learning – Series
-
-I started learning **Pandas** today and covered the basics of **Series**.
+# 📊 Pandas Learning Series
 
 ---
 
-## 📌 What I Learned
+## 📌 Topics Covered
 
-* Creating a Pandas Series
-* Using custom index
-* Accessing values with `.loc`
-* Updating values
-* Filtering data using conditions
+| File | Topic |
+|------|-------|
+| `pandas_series_basics.py` | Series basics, loc, filtering |
+| `dataframe.py` | DataFrame banana, iloc, loc |
+| `dataframe_modify.py` | Rows & Columns add karna |
+| `pandas_importing.py` | CSV & JSON import karna |
 
 ---
 
-## 📂 File
-
-* `pandas_series_basics.py`
-
+## 📂 Project Structure
+pandas-learning/
+│
+├── pandas_series_basics.py
+├── dataframe.py
+├── dataframe_modify.py
+├── pandas_importing.py
+│
+├── data/
+│   ├── students.csv
+│   └── students.json
+│
+└── README.md
 ---
 
 ## ▶️ How to Run
-
-```
 pip install pandas
-python pandas_series_basics.py
-```
-
+python filename.py
 ---
 
-## 🚀 Note
+## 🔜 Coming Soon
 
-This is just the beginning of my Pandas learning journey.
-I will update this repository as I learn more topics like DataFrames, filtering, and data analysis.
+- `pandas_cleaning.py` — Missing data handle karna
+- `pandas_filter.py` — Conditions se data nikalna
+- `pandas_groupby.py` — Group analysis
 
 ---
 
 ## 🙌 Credit
 
-Learning from YouTube (Code Bro)
+Learning from YouTube – **Code With
